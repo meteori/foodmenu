@@ -19,11 +19,9 @@ codeigniter sample project.
         	CustomLog "logs/foodmenu.dev-access.log" common
     	</VirtualHost>
     
-4. 添加本地hosts: 打开文件C:\Windows\System32\Drivers\etc\hosts，在文件末尾添加一行：
+4. 添加本地hosts: 打开文件C:\Windows\System32\Drivers\etc\hosts，在文件末尾添加一行并保存文件：
 
     	127.0.0.1       foodmenu.dev
-    
-保存文件
 
 5. 重启xampp上的apache
 
